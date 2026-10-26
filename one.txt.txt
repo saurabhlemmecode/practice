@@ -1,1 +1,2 @@
 Main feature
+New feature
